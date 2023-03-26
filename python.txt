@@ -1,5 +1,5 @@
 //VOICE ASSISTANT
-//Python project
+//Python Project
 
 import pyttsx3
 import speech_recognition as sr
