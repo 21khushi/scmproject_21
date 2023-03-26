@@ -1,3 +1,6 @@
+//VOICE ASSISTANT
+
+
 import pyttsx3
 import speech_recognition as sr
 import webbrowser
@@ -33,6 +36,10 @@ def speechtx(x):
     engine.runAndWait()
 
 if "name" == "main":
+
+
+
+
     os.system("cls")
     speechtx("Say 'hello Jatin' to activate the software")
     if sptext() == "hello jatin":
