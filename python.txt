@@ -64,3 +64,4 @@ if "name" == "main":
     else:
         speechtx("bye")
  //end
+//done changes in code  
